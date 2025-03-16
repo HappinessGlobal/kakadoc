@@ -1,1 +1,1 @@
-[返回首页](..%2FREADME.md)
+[返回首页](/README.md)
