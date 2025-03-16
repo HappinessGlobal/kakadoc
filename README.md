@@ -57,4 +57,4 @@ Markdown 示例文档结束 🎉
 
 
 # 文档索引
-[PayinErrorCheck.md](PayinErrorCheck.md)
+[PayinErrorCheck.md](Doc/PayinErrorCheck.md)
