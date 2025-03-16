@@ -6,7 +6,7 @@
 
 ![成功率低的报表](imgSuccessRate.png)
 卡卡报表查询过去3天的代付限额的手机，按次数从大到小排序
-![img.png](PayinErrorSearch.jpg)
+![img.png](img.png)
 
 点击详情后能看到每天的限额情况，如果限额次数过多，把用户标记一下代收异常，然后人工查询确认原因。
 
