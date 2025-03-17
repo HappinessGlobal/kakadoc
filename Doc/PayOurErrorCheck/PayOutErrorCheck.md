@@ -11,9 +11,12 @@
 
 #### 点击详情后能看到每天的限额情况，如果限额次数过多，把用户标记一下代收异常，然后人工查询确认原因。
 
+### 3.查询异常代付的订单，并手动下发（如果备注是“IFSC”或者“银行账号错误”，直接手动失败,否则超过两次手动失败【如果是upi风险不算做一次】）
+![PayoutManualDistribution.png](PayoutManualDistribution.png)!
 
-
-
-
+### 4.如何查看代付长时间没有支付
+先看PayoutManualDistribution.png中的创建时间，再看PayoutHistoryLastTime.png的时间，如果两个时间相差过大，就是长时间没有支付
+![PayoutManualDistribution.png](PayoutManualDistribution.png)
+![PayoutHistoryLastTime.png](PayoutHistoryLastTime.png)
 
 [返回首页](/README.md)
