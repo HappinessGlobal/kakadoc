@@ -26,6 +26,6 @@
 
 定位写上 姓名-日期-fk(风控)-Closed(关闭)
 
-![update1](D:\Projects\PayinFailureCheck\update1.png)
+![update1](update1.png)
 
 点击确认保存页面.
