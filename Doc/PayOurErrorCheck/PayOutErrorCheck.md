@@ -7,7 +7,7 @@
 ![成功率低的报表](imgSuccessRate.png)
 
 ### 2.卡卡报表查询过去3天的代付限额的手机，按次数从大到小排序
-![img.png](img.png)
+![img.png](successRate3Days0.png)
 
 #### 点击详情后能看到每天的限额情况，如果限额次数过多，把用户标记一下代收异常，然后人工查询确认原因。
 
@@ -20,5 +20,11 @@
 ![PayoutHistoryLastTime.png](PayoutHistoryLastTime.png)
 
 ### 5.先处理比较早的订单
+
+### 6.查看代付订单的错误信息，并且根据错误信息进行不同的处理
+
+#### （1）upi风险控制，账户会自动被系统“禁止代付”，24小时之后自动开启
+
+#### （2）
 
 [返回首页](/README.md)
