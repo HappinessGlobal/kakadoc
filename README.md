@@ -32,10 +32,10 @@
 ## [分组](Doc/group/md/Grouping.md)
 
 # 代收补单内容
-## [PayinOrder.md](Doc/payinfailurecheck/md/PayinOrder.md)
+## [代收补单](Doc/payinfailurecheck/md/PayinOrder.md)
 
 # 代付补单的内容
-## [PayOutFill.md](Doc/payourerrorcheck/md/PayOutFill.md)
+## [代付补单](Doc/payourerrorcheck/md/PayOutFill.md)
 
 
 
