@@ -7,9 +7,11 @@
 
 ## [代付检查文档](Doc/payourerrorcheck/md/PayOutErrorCheck.md)
 
+# 用户信息说明
+## [用户信息](Doc/balance/md/UserInfo.md)
 
 # 检查阿三偷钱
-## [检查阿三偷钱](Doc/balance/CheckBalance.md)
+## [检查阿三偷钱](Doc/balance/md/CheckBalance.md)
 
 # 如何查看pay in 低成功率
 ## [如何查看pay in 低成功率](Doc/payinerror/md/PayinErrorCheck.md)
