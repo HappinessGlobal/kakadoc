@@ -12,9 +12,11 @@
 ## [checkBalance.md](Doc%2Fbalance%2FcheckBalance.md)
 
 
-## 如何查看pay in 低成功率
-[PayinFailureCheck.md](Doc%2FPayinFailureCheck%2FPayinFailureCheck.md)
+# 如何查看pay in 低成功率
+## [PayinFailureCheck.md](Doc%2FPayinFailureCheck%2FPayinFailureCheck.md)
 
+# 如果代付在某台手机上，没有支付或者没有接收订单，或者没有找到手机，应该如何做
+## [PayoutNoRec.md](Doc%2FPayOurErrorCheck%2FPayoutNoRec.md)
 
 ## 辉哥的命令
 [ifey.md](Doc%2Fother%2Fifey.md)
