@@ -15,3 +15,5 @@
 #####  （邦哥那边回调的会慢一点，如果着急可以手动失败邦哥平台的订单，但是需要核对好订单）
 #####  （如果手动失败订单，记得清理手机app数据，然后再重新运行app）
 ![OnlineRing.png](../payoutnorec/OnlineRing.png)
+
+[返回首页](/README.md)

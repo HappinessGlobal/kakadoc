@@ -18,10 +18,12 @@
 ## [代付无法支付](Doc/payourerrorcheck/md/PayoutNoRec.md)
 
 # 如何查找代付失败的手机的订单，被下发到那一个手机上面
-# [查到下发订单](Doc/payourerrorcheck/md/FindReleaseOrder.md)
+## [查到下发订单](Doc/payourerrorcheck/md/FindReleaseOrder.md)
 
 ## 辉哥的命令
 # [命令](Doc/other/Ifey.md)
 
-## 关于阿三的
+## 关于阿三的内容
 # [阿三](Doc/other/As.md)
+
+
