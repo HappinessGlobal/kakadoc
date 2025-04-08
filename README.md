@@ -3,9 +3,9 @@
 [初始化手机](Doc/Init.md)
 
 # 每日检查说明
-## [代收检查文档](Doc/PayinError/PayinErrorCheck.md)
+## [代收检查文档](Doc/payinerror/PayinErrorCheck.md)
 
-## [代付检查文档](Doc/PayOurErrorCheck/PayOutErrorCheck.md)
+## [代付检查文档](Doc/payourerrorcheck/md/PayOutErrorCheck.md)
 
 
 # 检查阿三偷钱
@@ -17,6 +17,8 @@
 
 # 如果代付在某台手机上，没有支付或者没有接收订单，或者没有找到手机，应该如何做
 ## [PayoutNoRec.md](Doc%2FPayOurErrorCheck%2FPayoutNoRec.md)
+
+# 如何查找代付失败的手机的订单，被下发到那一个手机上面
 
 ## 辉哥的命令
 [ifey.md](Doc%2Fother%2Fifey.md)
