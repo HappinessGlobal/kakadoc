@@ -5,7 +5,7 @@
 ![click.png](../click.png)
 
 #### 2.输入分组的名称和分组的id（id不能重复,parentGroup是上一级的groupID，类似23的上一级是2，如果你想新建组，可以不写）
-![enterinfo.png](../enterinfo.png)
+![EnterInfo.png](../EnterInfo.png)
 
 #### 3.双击你需要添加的分组，并且点击“添加成员”
 ![ClickMembers.png](../ClickMembers.png)
