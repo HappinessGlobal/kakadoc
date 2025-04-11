@@ -37,6 +37,10 @@
 # 代付补单的内容
 ## [代付补单](Doc/payourerrorcheck/md/PayOutFill.md)
 
+# 承兑代付订单和代付订单查询区别
+## [PayOutOrder.md](Doc/payourerrorcheck/md/PayOutOrder.md)
+
+
 
 
 
