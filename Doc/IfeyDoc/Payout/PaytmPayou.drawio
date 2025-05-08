@@ -75,6 +75,11 @@
             <mxPoint x="-75" y="74" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W6n6ixHQuRA3JV6kteij-15" value="重复4次还没成功，通知服务器失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W6n6ixHQuRA3JV6kteij-10">
+          <mxGeometry x="0.5955" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
